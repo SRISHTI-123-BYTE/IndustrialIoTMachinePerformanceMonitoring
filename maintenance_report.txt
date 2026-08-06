@@ -1,0 +1,5 @@
+M104 | Plant B | Efficiency=21.82 | Maintenance=100000
+M102 | Plant A | Efficiency=21.67 | Maintenance=90000
+M101 | Plant A | Efficiency=20.0 | Maintenance=120000
+M105 | Plant C | Efficiency=20.0 | Maintenance=130000
+M103 | Plant B | Efficiency=18.82 | Maintenance=150000
